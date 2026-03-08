@@ -18,12 +18,12 @@ public class Main {
             System.out.println("\n==============================");
             System.out.println("   CONVERSOR DE MONEDAS");
             System.out.println("==============================");
-            System.out.println("1) Dólar estadounidense -> Peso argentino");
-            System.out.println("2) Peso argentino -> Dólar estadounidense");
-            System.out.println("3) Dólar estadounidense -> Real brasileño");
-            System.out.println("4) Real brasileño -> Dólar estadounidense");
-            System.out.println("5) Dólar estadounidense -> Peso colombiano");
-            System.out.println("6) Peso colombiano -> Dólar estadounidense");
+            System.out.println("1) Dólar -> Peso argentino");
+            System.out.println("2) Peso argentino -> Dólar");
+            System.out.println("3) Dólar -> Real brasileño");
+            System.out.println("4) Real brasileño -> Dólar");
+            System.out.println("5) Dólar -> Peso colombiano");
+            System.out.println("6) Peso colombiano -> Dólar");
             System.out.println("0) SALIR");
             System.out.println("==============================");
 
